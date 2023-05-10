@@ -19,4 +19,5 @@ the main questions they’d like to answer:
 The data set contains information about Rockbuster's film inventory, customers, and payments, among other things.
 
 ● [Download the Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
 ● [Download PostgreSQL Database (for Windows, macOS X, and Linux)](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
